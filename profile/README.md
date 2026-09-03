@@ -1,3 +1,5 @@
+![monocle_network_banner](https://github.com/monocle-network/.github/blob/main/profile/github-banner.jpg)
+
 # 👋 Hey, this is Monocle Network 
 
 Monocle is building an open source Monero Network based on Haveno Network 🚀
