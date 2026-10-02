@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/monocle-network/monocle-network.github.io/blob/main/assets/monocle-banner.jpg?raw=true" alt="Monocle logo">
+</div>
+
 # .github
 
 This repository centralizes GitHub community health files, templates, and organization-wide defaults for the Monocle Network organization.
