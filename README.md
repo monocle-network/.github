@@ -22,12 +22,13 @@ If no corresponding file is found in the current repository, GitHub uses the def
 
 | File | Purpose |
 |---|---|
-| `SECURITY.md` | How to report a security vulnerability to Monocle |
-| `SUPPORT.md` | Where to get help with Monocle |
-| `CONTRIBUTING.md` | How to contribute to Monocle projects |
-| `CODE_OF_CONDUCT.md` | Standards for engaging in the community |
-| `FUNDING.yml` | Sponsor links displayed on Monocle repositories |
-| `ACCESSIBILITY.md` | Accessibility goals, known barriers, and reporting process |
+| [README.md](https://github.com/monocle-network/.github/blob/main/profile/README.md) | This is the read-me file for the Monocle Network GitHub organization |
+| [SECURITY.md](https://github.com/monocle-network/.github/blob/main/SECURITY.md) | How to report a security vulnerability to Monocle |
+| [SUPPORT.md](https://github.com/monocle-network/.github/blob/main/SUPPORT.md) | Where to get help with Monocle |
+| [CONTRIBUTING.md](https://github.com/monocle-network/.github/blob/main/CONTRIBUTING.md) | How to contribute to Monocle projects |
+| [CODE_OF_CONDUCT.md](https://github.com/monocle-network/.github/blob/main/CODE_OF_CONDUCT.md) | Standards for engaging in the community |
+| FUNDING.yml | Sponsor links displayed on Monocle repositories |
+| [ACCESSIBILITY.md](https://github.com/monocle-network/.github/blob/main/ACCESSIBILITY.md) | Accessibility goals, known barriers, and reporting process |
 
 Default community health files do not appear in the file browser or Git history of individual repositories, and are not included in their clones, packages, or downloads.
 
