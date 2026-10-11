@@ -12,7 +12,7 @@ For the Monocle desktop application, accessibility improvements come upstream fr
 
 We want to be honest about current limitations:
 
-- The Monocle application is desktop only; no mobile or screen-reader-optimized interface is available
+- The Monocle application is desktop only; no mobile, and only a basic screen-reader-optimized interface is available
 - Accessibility of the application depends on upstream Haveno; we do not control it directly
 - The website, wiki, support, and documentation are provided in English only - no other languages are available
 
