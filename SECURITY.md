@@ -6,7 +6,7 @@ If you discover a security vulnerability in Monocle Network - in the Monocle app
 
 Do not open a public issue, pull request, or discussion for security vulnerabilities.
 
-For how and where to report, severity criteria, bounty details, and the full disclosure process, see the [Responsible Disclosure Policy](https://monocle.wiki/Policies/Responsible_Disclosure_Policy).
+For how and where to report, severity criteria, bounty details, and the full disclosure process, see the [Responsible Disclosure Policy](https://monoclenetwork.org/responsible-disclosure-policy).
 
 ## What to report
 
@@ -22,4 +22,4 @@ For how and where to report, severity criteria, bounty details, and the full dis
 
 ## Bounties
 
-Monocle Network compensates responsibly disclosed vulnerabilities that are approved under the Responsible Disclosure Policy. See the [policy](https://monocle.wiki/Policies/Responsible_Disclosure_Policy) for eligibility, amounts, and the disclosure process.
+Monocle Network compensates responsibly disclosed vulnerabilities that are approved under the Responsible Disclosure Policy. See the [policy](https://monoclenetwork.org/responsible-disclosure-policy) for eligibility, amounts, and the disclosure process.
