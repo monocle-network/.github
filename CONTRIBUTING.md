@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to Monocle Network. Monocle is a community-driven, [bootstrapped project](https://monocle.wiki/Policies/Bootstrapped_Operations_Policy): contributors who dedicate their time and skills are compensated in Monero, and all contributions are welcome.
+Thank you for your interest in contributing to Monocle Network. Monocle is a community-driven, [bootstrapped project](https://monoclenetwork.org/bootstrapped-operations-policy): contributors who dedicate their time and skills are compensated in Monero, and all contributions are welcome.
 
 ## Contributing code
 
@@ -45,4 +45,4 @@ Contributor compensation is fully transparent:
 
 ## Code of Conduct
 
-All contributions are governed by the [Contributor Code of Conduct](https://monocle.wiki/Policies/Contributor_Code_Of_Conduct). Please read it before contributing.
+All contributions are governed by the [Contributor Code of Conduct](https://monoclenetwork.org/contributor-code-of-conduct). Please read it before contributing.
