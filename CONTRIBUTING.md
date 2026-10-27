@@ -4,7 +4,7 @@ Thank you for your interest in contributing to Monocle Network. Monocle is a com
 
 ## Contributing code
 
-Code contributions to the Monocle application have their own specific instructions. These are available at [the Monocle Netowrk application's contributing guide](https://github.com/monocle-network/monocle/blob/master/docs/CONTRIBUTING.md).
+Code contributions to the Monocle application have their own specific instructions. These are available at [the Monocle Network application's contributing guide](https://github.com/monocle-network/monocle/blob/master/docs/CONTRIBUTING.md).
 
 This document is a general guide for contributing across all other Monocle Network repositories.
 
