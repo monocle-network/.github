@@ -22,5 +22,5 @@ All support is provided in English.
 
 For more information, please see the:
 
-- [Support Policy](https://monocle.wiki/Policies/Support_Policy)
-- [Contact, Support and Community](https://monocle.wiki/Contact,_Support_And_Community)
+- [Support Policy](https://monoclenetwork.org/support-policy)
+- [Contact, Support and Community](https://monoclenetwork.org/support)
