@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/monocle-network/monocle-network.github.io/blob/main/assets/monocle-banner.jpg?raw=true" alt="Monocle logo">
+  <img src="https://github.com/monocle-network/website/blob/main/assets/monocle-banner.jpg?raw=true" alt="Monocle logo">
 </div>
 
 # .github
