@@ -1,88 +1,121 @@
 <div align="center">
-  <img src="https://github.com/monocle-network/monocle-network.github.io/blob/main/assets/monocle-banner.jpg?raw=true" alt="Monocle logo">
+  <img src="https://github.com/monocle-network/website/blob/main/assets/monocle-banner.jpg?raw=true" alt="Monocle logo">
 </div>
 
-## 👋 Hey, this is Monocle Network
+# Monocle Network
 
-Monocle is an open-source peer-to-peer network based on Haveno Network and built on Monero. Monocle enables people to buy and sell Monero for fiat, Bitcoin and other cryptocurrencies.
+Monocle is an open-source peer-to-peer network based on Haveno for buying and selling Monero for fiat, Bitcoin and other cryptocurrencies.
 
 Visit the [Monocle Network](https://monoclenetwork.org) website to find out more.
 
-## 🧐 Vision
+## Vision
 
-Monocle's vision is to provide people with a safe, private and transparent way to buy and sell Monero.
+Monocle's vision is to provide peers with a private, transparent and security-conscious way to buy and sell Monero.
 
-## 🚀 Mission
+## Mission
 
-Monocle's mission is to operate a Haveno network that the Monero community can trust: one that is transparent with network fees and reserve wallets, community-driven, and committed to returning value to the ecosystem.
+Monocle's mission is to operate a peer-to-peer network that is transparent and accountable, community-driven, and committed to supporting the wider ecosystem.
 
-## 💚 Values
+## Values
 
-Monocle’s core values are:
+Monocle’s core values:
 
 * Privacy
-* Transparency 
+* Transparency
 * Community
-* Security 
+* Security
 * Censorship resistance
 
 ## What Makes Monocle Different?
 
-### Monocle is Transparent
+### Transparency
 
-Monocle Network operates on a simple principle: peer privacy is non-negotiable, while network operations are transparent. Find out [how to verify](https://monocle.wiki/Transparency).
+Monocle Network operates on a simple principle: peer privacy is non-negotiable, while [network operations are transparent](https://monocle.wiki/Transparency).
 
-### Monocle Provides Excellent Support
+### Responsive Support
 Monocle support contributors are responsive and there are multiple ways to [contact support](https://monoclenetwork.org/support).
 
-### Monocle has Low Network Fees
-0.1% for maker and 0.2% for the taker. Find out more about the [network fees](https://monoclenetwork.org/network-fees). 
+### Low Network Fees
+[Network fees](https://monoclenetwork.org/network-fees) are 0.1% for makers and 0.2% for takers, for a combined 0.3% per trade.
 
-### Monocle protects peers
-33% of all network fees are distributed to [Community Reserves](https://monoclenetowrk.org/community-reserves) that protect peers and improve the ecosystem.
+### Peer Protection
+33% of all network fees are allocated to [Community Reserves](https://monoclenetwork.org/community-reserves) for peer security and ecosystem development.
+
+### Security
+Monocle Network treats peer security as a core part of its operations. If you notice a vulnerability, please follow the [responsible disclosure policy](https://monoclenetwork.org/responsible-disclosure-policy).
 
 ## Monocle Repositories
 
-### monocle
-Our application repository [🔗](https://github.com/monocle-network/monocle).
+### [`monocle`](https://github.com/monocle-network/monocle)
+Monocle desktop application.
 
-### roles
-A place for contributors, to understand role requirements and to post reports [🔗](https://github.com/monocle-network/roles).
+### [`roles`](https://github.com/monocle-network/roles)
+Contributor role requirements and activity reports.
 
-### compensation
-A place for contributor compensation requests [🔗](https://github.com/monocle-network/compensation).
+### [`compensation`](https://github.com/monocle-network/compensation)
+Contributor compensation requests.
 
-### Monocle.wiki-source
-Git source and contribution repository for monocle.wiki, an OtterWiki-powered knowledge base [🔗](https://github.com/monocle-network/monocle.wiki-source).
+### [`monocle.wiki-source`](https://github.com/monocle-network/monocle.wiki-source)
+Source for [Monocle Wiki](https://monocle.wiki), a knowledge base powered by _An Otter Wiki_.
 
-### monocle-network.github.io
-The Monocle Network website [🔗](https://github.com/monocle-network/monocle-network.github.io).
+### [`website`](https://github.com/monocle-network/website)
+Source for the official [Monocle Network website](https://monoclenetwork.org).
 
-### meta
-A meta repository for general Monocle project matters, discussions, policies, guidelines, to be easily accessible and discussed by anyone interested [🔗](https://github.com/monocle-network/meta).
+### [`meta`](https://github.com/monocle-network/meta)
+General Monocle Network discussions, policies, guidelines, role vacancies and more.
 
-### design
-A place for @monocle-network design and communication elements [🔗](https://github.com/monocle-network/design).
+### [`design`](https://github.com/monocle-network/design)
+Design and communication elements.
 
-### .github
-Organization-wide configs and resources for Monocle Network [🔗](https://github.com/monocle-network/.github).
+### [`.github`](https://github.com/monocle-network/.github)
+Organization-wide configs and resources.
+<!--
+### [`monocle.markets`](https://github.com/monocle-network/monocle.markets)
+API for [Monocle Markets](https://monocle.markets).
+-->
 
-### monocle.markets
-Our Monocle markets API at https://monocle.markets [🔗](https://github.com/monocle-network/monocle.markets).
+### [`haveno-bounties`](https://github.com/monocle-network/haveno-bounties)
+Discussion and tracking of community-sponsored bounties for the improvement of the original Haveno.
 
-### haveno-bounties
-A place for the community to discuss what Haveno bounties they would like to see, and then track the progress of any successful bounties [🔗](https://github.com/monocle-network/haveno-bounties).
+### [`appeals`](https://github.com/monocle-network/appeals)
+Appeals allows peers to have an arbitrator's decision reviewed by a different arbitrator.
+
+### [`blog`](https://github.com/monocle-network/blog)
+Repository for the official [Monocle Network blog](https://monocle.blog).
+
+### [`status`](https://github.com/monocle-network/status)
+Repository for the Monocle Network [service status page](https://status.monoclenetwork.org).
+
 
 ## Community Discussions
 
-Monocle Network is building a community of people interested in privacy, Monero, and open-source projects. Get involved in the [discussions](https://github.com/orgs/monocle-network/discussions).
+Discussions about Monocle, privacy, Monero, and open-source projects take place in the [Monocle Network discussions](https://github.com/orgs/monocle-network/discussions).
 
 ## Wiki
 
-The knowledge base for Monocle Network. See [Monocle.Wiki](https://monocle.wiki)
+[Monocle Wiki](https://monocle.wiki) is the knowledge base for Monocle Network.
 
-## 🤝 Join us
-Monocle needs your help and welcomes contributions! Check out Monocle's individual repositories for contributing guides, open issues, and ways to get involved. Look for [good first issue](https://github.com/monocle-network/monocle/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22) or [help-wanted](https://github.com/monocle-network/monocle/issues?q=is%3Aissue+state%3Aopen+label%3A%22help+wanted%22) labels. Or check out the [get involed](https://monoclenetwork.org/get-involved) page.
+## Blog
 
-## 🔐 Security
-Monocle Network puts peers’ safety as the core of its operations. If you notice a vulnerability, please follow our the [responsible disclosure policy](https://monocle.wiki/Policies/Responsible_Disclosure_Policy).
+Latest news are always published on the [Monocle Blog](https://monocle.blog).
+
+## Follow Monocle
+
+Monocle has a mix of community spaces and social media accounts. If you want to join the community check out the links below:
+
+- [SimpleX](https://smp16.simplex.im/g#4ZNponZ0_i9I0Y4pjovryMbK1Z7SiVVggBEf1TZTglc)
+- [Matrix](https://matrix.to/#/#monocle-network:matrix.org)
+- [X / Twitter](https://x.com/monoclenetwork)
+- [Telegram](https://t.me/monoclenetwork)
+- [Nostr](https://njump.me/nprofile1qqszn3dacldq7e7nv3888z3qzqs4ry773v6umrsp4ttan6e6zau4hscnd79ry)
+- [Reddit](https://reddit.com/r/monoclenetwork)
+- [Stasher News](https://stasher.news/monocle)
+- [YouTube](https://www.youtube.com/@monocle-network)
+
+
+## Download Monocle
+
+Prebuilt binaries for Linux, macOS, and Windows are available on the [releases](https://github.com/monocle-network/monocle/releases) page. Or visit the website [download page](https://monoclenetwork.org/download).
+
+## Join Monocle Network
+Monocle Network welcomes contributions. See the repositories for contributing guides, open issues, and ways to get involved. Look for [good first issue](https://github.com/monocle-network/monocle/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22) or [help-wanted](https://github.com/monocle-network/meta/issues?q=state%3Aopen%20label%3A%22help%20wanted%22) labels or find other ways to [get involved](https://monoclenetwork.org/get-involved).
