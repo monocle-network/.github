@@ -38,4 +38,4 @@ Default community health files do not appear in the file browser or Git history 
 
 ## Project matters
 
-General project matters — proposals, meeting notes, incident reports, and transparency reports - are handled in the [meta repository](https://github.com/monocle-network/meta).
+General project matters - proposals, meeting notes, incident reports, and transparency reports - are handled in the [meta repository](https://github.com/monocle-network/meta).
